@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.vscode/
+*.log
+build/
+dist/
+_imgtest/
+*.bin
+.env
+.env.*
+config.json
+accu_cookies.json
+**/accu_cookies.json
+**/config.json
